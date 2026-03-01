@@ -3,8 +3,8 @@
 
 My Portfolio: [dhairyaaa15.vercel.app](https://dhairyaaa15.vercel.app/)
 
-&nbsp; 🌱 Currently building **production-ready AI agents & full-stack systems**
-&nbsp; 🌱 Currently started learning **Deep Learning, Neural Networks, Advanced Multi-Agent Systems**
+&nbsp; 🌱 Currently building **production-ready AI agents & full-stack systems**<br>
+&nbsp; 🌱 Currently started learning **Deep Learning, Neural Networks, Advanced Multi-Agent Systems**<br>
 &nbsp; 🌱 Open to collaborating on **AI Systems, Agent Architectures, Full-Stack Products**
 
 Reach me at: **dhairyachawda5@gmail.com**
