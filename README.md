@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhairya Chawda</h1>
+<h1 align="center">Hi, I'm Dhairya Chawda</h1>
 <h3>Full-Stack Developer & AI Agent Builder</h3>
 
 My Portfolio: [dhairyaaa15.vercel.app](https://dhairyaaa15.vercel.app/)
